@@ -1,0 +1,31 @@
+#name{
+ border-radius: 0%;
+ border-style: outset;
+}
+
+#total{
+    background-color: #2b3252;
+    width: 550px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+    color:  #fad744;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 25px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+
+    
+
+
+}
+#button{
+
+    background-color:  #fad744;
+    border: 1px solid #fad744;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+
